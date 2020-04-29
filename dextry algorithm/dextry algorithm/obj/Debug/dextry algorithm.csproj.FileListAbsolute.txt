@@ -1,0 +1,6 @@
+D:\Tasks\dextry algorithm\dextry algorithm\bin\Debug\dextry algorithm.exe.config
+D:\Tasks\dextry algorithm\dextry algorithm\bin\Debug\dextry algorithm.exe
+D:\Tasks\dextry algorithm\dextry algorithm\bin\Debug\dextry algorithm.pdb
+D:\Tasks\dextry algorithm\dextry algorithm\obj\Debug\dextry algorithm.csprojAssemblyReference.cache
+D:\Tasks\dextry algorithm\dextry algorithm\obj\Debug\dextry algorithm.exe
+D:\Tasks\dextry algorithm\dextry algorithm\obj\Debug\dextry algorithm.pdb

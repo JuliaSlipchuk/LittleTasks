@@ -1,0 +1,6 @@
+D:\Tasks\sponsor word\sponsor word\sponsor word\obj\Debug\sponsor word.csprojAssemblyReference.cache
+D:\Tasks\sponsor word\sponsor word\sponsor word\bin\Debug\sponsor word.exe.config
+D:\Tasks\sponsor word\sponsor word\sponsor word\bin\Debug\sponsor word.exe
+D:\Tasks\sponsor word\sponsor word\sponsor word\bin\Debug\sponsor word.pdb
+D:\Tasks\sponsor word\sponsor word\sponsor word\obj\Debug\sponsor word.exe
+D:\Tasks\sponsor word\sponsor word\sponsor word\obj\Debug\sponsor word.pdb
