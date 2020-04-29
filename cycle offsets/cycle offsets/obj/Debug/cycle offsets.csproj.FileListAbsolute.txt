@@ -1,0 +1,6 @@
+D:\Tasks\cycle offsets\cycle offsets\bin\Debug\cycle offsets.exe.config
+D:\Tasks\cycle offsets\cycle offsets\bin\Debug\cycle offsets.exe
+D:\Tasks\cycle offsets\cycle offsets\bin\Debug\cycle offsets.pdb
+D:\Tasks\cycle offsets\cycle offsets\obj\Debug\cycle offsets.csprojAssemblyReference.cache
+D:\Tasks\cycle offsets\cycle offsets\obj\Debug\cycle offsets.exe
+D:\Tasks\cycle offsets\cycle offsets\obj\Debug\cycle offsets.pdb
