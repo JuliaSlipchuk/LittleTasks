@@ -1,0 +1,6 @@
+D:\Tasks\two circles\two circles\bin\Debug\two circles.exe.config
+D:\Tasks\two circles\two circles\bin\Debug\two circles.exe
+D:\Tasks\two circles\two circles\bin\Debug\two circles.pdb
+D:\Tasks\two circles\two circles\obj\Debug\two circles.csprojAssemblyReference.cache
+D:\Tasks\two circles\two circles\obj\Debug\two circles.exe
+D:\Tasks\two circles\two circles\obj\Debug\two circles.pdb
