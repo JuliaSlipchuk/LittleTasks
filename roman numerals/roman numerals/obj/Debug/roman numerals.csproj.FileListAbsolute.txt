@@ -1,0 +1,6 @@
+D:\Tasks\roman numerals\roman numerals\bin\Debug\roman numerals.exe.config
+D:\Tasks\roman numerals\roman numerals\bin\Debug\roman numerals.exe
+D:\Tasks\roman numerals\roman numerals\bin\Debug\roman numerals.pdb
+D:\Tasks\roman numerals\roman numerals\obj\Debug\roman numerals.csprojAssemblyReference.cache
+D:\Tasks\roman numerals\roman numerals\obj\Debug\roman numerals.exe
+D:\Tasks\roman numerals\roman numerals\obj\Debug\roman numerals.pdb
