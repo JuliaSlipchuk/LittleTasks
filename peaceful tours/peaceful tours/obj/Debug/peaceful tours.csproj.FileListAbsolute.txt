@@ -1,0 +1,6 @@
+D:\Tasks\peaceful tours\peaceful tours\bin\Debug\peaceful tours.exe.config
+D:\Tasks\peaceful tours\peaceful tours\bin\Debug\peaceful tours.exe
+D:\Tasks\peaceful tours\peaceful tours\bin\Debug\peaceful tours.pdb
+D:\Tasks\peaceful tours\peaceful tours\obj\Debug\peaceful tours.csprojAssemblyReference.cache
+D:\Tasks\peaceful tours\peaceful tours\obj\Debug\peaceful tours.exe
+D:\Tasks\peaceful tours\peaceful tours\obj\Debug\peaceful tours.pdb
