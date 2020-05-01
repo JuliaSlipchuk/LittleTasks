@@ -1,0 +1,6 @@
+D:\Tasks\crossing game\crossing game\bin\Debug\crossing game.exe.config
+D:\Tasks\crossing game\crossing game\bin\Debug\crossing game.exe
+D:\Tasks\crossing game\crossing game\bin\Debug\crossing game.pdb
+D:\Tasks\crossing game\crossing game\obj\Debug\crossing game.csprojAssemblyReference.cache
+D:\Tasks\crossing game\crossing game\obj\Debug\crossing game.exe
+D:\Tasks\crossing game\crossing game\obj\Debug\crossing game.pdb
