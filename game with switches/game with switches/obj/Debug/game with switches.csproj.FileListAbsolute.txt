@@ -1,0 +1,6 @@
+D:\Tasks\game with switches\game with switches\bin\Debug\game with switches.exe.config
+D:\Tasks\game with switches\game with switches\bin\Debug\game with switches.exe
+D:\Tasks\game with switches\game with switches\bin\Debug\game with switches.pdb
+D:\Tasks\game with switches\game with switches\obj\Debug\game with switches.csprojAssemblyReference.cache
+D:\Tasks\game with switches\game with switches\obj\Debug\game with switches.exe
+D:\Tasks\game with switches\game with switches\obj\Debug\game with switches.pdb
