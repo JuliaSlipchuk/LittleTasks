@@ -1,0 +1,6 @@
+D:\Tasks\traffic lights\traffic lights\bin\Debug\traffic lights.exe.config
+D:\Tasks\traffic lights\traffic lights\bin\Debug\traffic lights.exe
+D:\Tasks\traffic lights\traffic lights\bin\Debug\traffic lights.pdb
+D:\Tasks\traffic lights\traffic lights\obj\Debug\traffic lights.csprojAssemblyReference.cache
+D:\Tasks\traffic lights\traffic lights\obj\Debug\traffic lights.exe
+D:\Tasks\traffic lights\traffic lights\obj\Debug\traffic lights.pdb
