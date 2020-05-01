@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\CDs\CDs\bin\Debug\CDs.exe.config
+C:\Users\admin\source\repos\CDs\CDs\bin\Debug\CDs.exe
+C:\Users\admin\source\repos\CDs\CDs\bin\Debug\CDs.pdb
+C:\Users\admin\source\repos\CDs\CDs\obj\Debug\CDs.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CDs\CDs\obj\Debug\CDs.exe
+C:\Users\admin\source\repos\CDs\CDs\obj\Debug\CDs.pdb
