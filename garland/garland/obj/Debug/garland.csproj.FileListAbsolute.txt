@@ -1,0 +1,6 @@
+D:\Tasks\garland\garland\bin\Debug\garland.exe.config
+D:\Tasks\garland\garland\bin\Debug\garland.exe
+D:\Tasks\garland\garland\bin\Debug\garland.pdb
+D:\Tasks\garland\garland\obj\Debug\garland.csprojAssemblyReference.cache
+D:\Tasks\garland\garland\obj\Debug\garland.exe
+D:\Tasks\garland\garland\obj\Debug\garland.pdb
