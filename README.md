@@ -76,6 +76,7 @@ Output One integer - the number of light bulbs that will burn per second n.
 When you visit a large store before New Year's, you have chosen many gifts for your family and friends. There are two types of New Year's discounts available in the store to save you some money:
 1. When you buy three goods, you pay for them as two of the most expensive of them.
 2. When you buy four goods, you pay for them as the three most expensive of them.
+
 This way, you can combine certain products into threes or fours and pay less for them. It is necessary to determine the minimum amount of money that will be spent on the purchase of all gifts. For example, if the prices of five selected gifts are: 50, 80, 50, 100, 20, then you can separately buy the first four goods, get a discount for them, and then buy a gift that remains at its nominal price. In total, the entire purchase will cost 250 monetary units instead of 300.
 Write a program that at the price of all gifts, finds the minimum amount of money that will be enough to buy them.
 Incoming data
