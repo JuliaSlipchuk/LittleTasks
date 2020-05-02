@@ -65,3 +65,10 @@ The first line contains two numbers n and m (0 <n ≤ 100, 0 ≤ m ≤ n · (n -
 Output data
 Print n numbers: The k-number indicates the number of traffic lights at the k-th intersection.
 We can assume that arbitrary two intersections are connected by no more than one tunnel. There are no tunnels from and to the intersection.
+### Garland
+The Christmas tree is decorated with a garland of infinite length, consisting of series of connected bulbs. When the garland is switched on, only the first light comes on, counting from a switch that lights for one second. Then the garland flashes according to this rule. Every second, a condition is checked for each light bulb: if exactly one of its adjacent light bulbs is lit, then that light will burn for the next second; otherwise - it will not burn. The first light bulb has only one neighbor.
+Write a program that finds, by the number of seconds, the number of garland bulbs that will burn during that second.
+Incoming data
+One integer n (1 ≤ n ≤ 109) is the number of the second.
+Output data
+Output One integer - the number of light bulbs that will burn per second n.
