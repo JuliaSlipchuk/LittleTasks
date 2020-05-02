@@ -58,3 +58,10 @@ Incoming data
 The first line contains three numbers n, s and f (1 ≤ n ≤ 100, 1 ≤ s, f ≤ n), where n is the number of vertices of the graph. The following n lines contain n numbers - adjacency matrix of the graph, where the number in the i-th row and the j-th column corresponds to the edge from i to j: -1 denotes the absence of an edge between vertices, and an arbitrary non-negative number - the presence of an edge of a given balance. Zeros are always written on the main diagonal of the matrix.
 Output data
 Output the required distance or -1 if no path exists between given vertices.
+### Traffic lights
+In the dungeon of m tunnels and n intersections, each tunnel connects two intersections. The mouse king decided to put a traffic light in each tunnel before each intersection. Write a program that calculates how many traffic lights should be installed at each intersection. Intersections are numbered from 1 to n.
+Incoming data
+The first line contains two numbers n and m (0 <n ≤ 100, 0 ≤ m ≤ n · (n - 1) / 2). The following m lines contain two integers i and j (1 ≤ i, j ≤ n), which mean that the intersections i and j are connected by a tunnel.
+Output data
+Print n numbers: The k-number indicates the number of traffic lights at the k-th intersection.
+We can assume that arbitrary two intersections are connected by no more than one tunnel. There are no tunnels from and to the intersection.
