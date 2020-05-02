@@ -1,0 +1,6 @@
+D:\Tasks\discounts\discounts\bin\Debug\discounts.exe.config
+D:\Tasks\discounts\discounts\bin\Debug\discounts.exe
+D:\Tasks\discounts\discounts\bin\Debug\discounts.pdb
+D:\Tasks\discounts\discounts\obj\Debug\discounts.csprojAssemblyReference.cache
+D:\Tasks\discounts\discounts\obj\Debug\discounts.exe
+D:\Tasks\discounts\discounts\obj\Debug\discounts.pdb
