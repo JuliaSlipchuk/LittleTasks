@@ -1,0 +1,6 @@
+D:\Tasks\area of the polygon\area of the polygon\bin\Debug\area of the polygon.exe.config
+D:\Tasks\area of the polygon\area of the polygon\bin\Debug\area of the polygon.exe
+D:\Tasks\area of the polygon\area of the polygon\bin\Debug\area of the polygon.pdb
+D:\Tasks\area of the polygon\area of the polygon\obj\Debug\area of the polygon.csprojAssemblyReference.cache
+D:\Tasks\area of the polygon\area of the polygon\obj\Debug\area of the polygon.exe
+D:\Tasks\area of the polygon\area of the polygon\obj\Debug\area of the polygon.pdb
