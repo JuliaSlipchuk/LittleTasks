@@ -1,0 +1,6 @@
+D:\Tasks\robot\robot\bin\Debug\robot.exe.config
+D:\Tasks\robot\robot\bin\Debug\robot.exe
+D:\Tasks\robot\robot\bin\Debug\robot.pdb
+D:\Tasks\robot\robot\obj\Debug\robot.csprojAssemblyReference.cache
+D:\Tasks\robot\robot\obj\Debug\robot.exe
+D:\Tasks\robot\robot\obj\Debug\robot.pdb
