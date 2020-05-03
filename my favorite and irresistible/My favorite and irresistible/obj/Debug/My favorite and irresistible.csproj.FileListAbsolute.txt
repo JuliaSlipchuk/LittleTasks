@@ -1,0 +1,6 @@
+D:\Tasks\My favorite and irresistible\My favorite and irresistible\bin\Debug\My favorite and irresistible.exe.config
+D:\Tasks\My favorite and irresistible\My favorite and irresistible\bin\Debug\My favorite and irresistible.exe
+D:\Tasks\My favorite and irresistible\My favorite and irresistible\bin\Debug\My favorite and irresistible.pdb
+D:\Tasks\My favorite and irresistible\My favorite and irresistible\obj\Debug\My favorite and irresistible.csprojAssemblyReference.cache
+D:\Tasks\My favorite and irresistible\My favorite and irresistible\obj\Debug\My favorite and irresistible.exe
+D:\Tasks\My favorite and irresistible\My favorite and irresistible\obj\Debug\My favorite and irresistible.pdb
